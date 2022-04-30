@@ -1,9 +1,3 @@
-Murtadha Nisyif 1045393
-CIS3110
-Assignment 03
-Date: Apr 10, 2022
-========================
-
 About: This implementation uses doubly linked list to simulate memory given 4 different memory management algorithms
 
 (1) List * readFile(char * fileName);
