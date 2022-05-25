@@ -1,4 +1,4 @@
-# About: This implementation uses doubly linked list to simulate memory given 4 different memory management algorithms
+# About: This implementation uses doubly linked list to simulate memory allocation given 4 different memory management algorithms
 
 ## (1) List * readFile(char * fileName);
 
